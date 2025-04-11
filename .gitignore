@@ -172,3 +172,9 @@ cython_debug/
 
 # figures (to save github space)
 /Figures
+
+# data (to save github space)
+/Data
+
+# Literature reivew (copyright)
+/Literature
